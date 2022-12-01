@@ -1,8 +1,6 @@
-echo "# H1" >> README.md
 git init
-git add README.md
-git commit -m "first commit"
+git add .
+git commit -m " H1first commit"
 git branch -M main
-
 git remote add origin https://github.com/jeevitha2901/H1.git
-git push -u origin maingitad
+git push -u origin main
